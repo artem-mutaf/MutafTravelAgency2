@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutafTravelAgency2", "MutafTravelAgency2\MutafTravelAgency2.csproj", "{82882990-043E-43B7-8455-D757982EB1E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{FD57FE41-AA6D-4EEA-8D1E-6980EE3F61D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{62B13C37-8221-42BC-A882-61B184E17DEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{995250BE-A4D2-42C7-86FE-241BB9BFD644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.DAL", "TravelAgency.DAL\TravelAgency.DAL.csproj", "{E2F90812-0C00-48BE-944F-B058B4C7A908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Domain", "TravelAgency.Domain\TravelAgency.Domain.csproj", "{6E15B622-2326-4CD2-88E4-BE3DD38D97CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Service", "TravelAgency.Service\TravelAgency.Service.csproj", "{7BBDC1A9-7846-4231-887C-74EFA41DB151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82882990-043E-43B7-8455-D757982EB1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82882990-043E-43B7-8455-D757982EB1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82882990-043E-43B7-8455-D757982EB1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82882990-043E-43B7-8455-D757982EB1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F90812-0C00-48BE-944F-B058B4C7A908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F90812-0C00-48BE-944F-B058B4C7A908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F90812-0C00-48BE-944F-B058B4C7A908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F90812-0C00-48BE-944F-B058B4C7A908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E15B622-2326-4CD2-88E4-BE3DD38D97CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E15B622-2326-4CD2-88E4-BE3DD38D97CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E15B622-2326-4CD2-88E4-BE3DD38D97CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E15B622-2326-4CD2-88E4-BE3DD38D97CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BBDC1A9-7846-4231-887C-74EFA41DB151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBDC1A9-7846-4231-887C-74EFA41DB151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBDC1A9-7846-4231-887C-74EFA41DB151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBDC1A9-7846-4231-887C-74EFA41DB151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2F90812-0C00-48BE-944F-B058B4C7A908} = {FD57FE41-AA6D-4EEA-8D1E-6980EE3F61D7}
+		{6E15B622-2326-4CD2-88E4-BE3DD38D97CE} = {62B13C37-8221-42BC-A882-61B184E17DEF}
+		{7BBDC1A9-7846-4231-887C-74EFA41DB151} = {995250BE-A4D2-42C7-86FE-241BB9BFD644}
+	EndGlobalSection
+EndGlobal
