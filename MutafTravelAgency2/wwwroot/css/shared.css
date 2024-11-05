@@ -54,60 +54,62 @@ body {
     z-index: 1000;
 }
 
-.button-header{
+.button-header {
     display: flex;
     align-items: center;
-
-
-    .button-header .button{
-        border: 2px solid #370b0b;
-        background-color: transparent;
-        padding: 7px 14px;
-        margin: 0 10px;
-        border-radius: 3px;
-        color: #370b0b;
-        cursor: pointer;
-        font-size: 14px;
-        font-weight: 600;
-        transition: all 250ms ease;
-
-
-        .button-header .button:hover{
-            color: #fff;
-            background-color: #370b0b;
-        }
-    }
 }
 
-.menu{
+.button-header .button {
+    border: 2px solid #370b0b;
+    background-color: transparent;
+    padding: 7px 14px;
+    margin: 0 10px;
+    border-radius: 3px;
+    color: #370b0b;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 250ms ease;
+}
+
+.button-header .button:hover{
+    color: #fff;
+    background-color: #370b0b;
+}
+    
+
+
+.menu {
     width: 100%;
     display: flex;
     justify-content: center;
-
-
-    .menu li{
-        display: inline;
-        padding: 0 20px;
-    }
-    .menu a{
-        font-size: 15px;
-        font-weight: 600;
-        line-height: 150%;
-        color: #0c0e10;
-        text-decoration: none;
-
-
-        .menu a:hover{
-            color: #000;
-        }
-    }
 }
+
+.menu li {
+    display: inline;
+    padding: 0 20px;
+}
+.menu a {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 150%;
+    color: #0c0e10;
+    text-decoration: none;
+
+
+        
+}
+.menu a:hover{
+    color: #000;
+}
+
 
 .container{
     width: 82%;
     border: 2px solid #cacaca;
     border-radius: 3px;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, .04);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+    background-color: #fff;
 }
 .container-section{
     display: flex;

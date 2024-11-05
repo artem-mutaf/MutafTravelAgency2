@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    window.addEventListener("hashchange", function(e) {
+    window.addEventListener("scroll", function(e) {
         var header = document.getElementById("header-top");
         var scrollTop= window.scrollY;
         var maxScroll = 250;

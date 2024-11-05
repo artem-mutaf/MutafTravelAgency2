@@ -18,12 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\RiderProjects\MutafTravelAgency2\MutafTravelAgency2
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/RiderProjects/MutafTravelAgency2/MutafTravelAgency2/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/RiderProjects/MutafTravelAgency2/MutafTravelAgency2/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/RiderProjects/MutafTravelAgency2/MutafTravelAgency2/Views/Home/SiteInfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaXRlSW5maXJtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/RiderProjects/MutafTravelAgency2/MutafTravelAgency2/Views/Shared/Error.cshtml]
